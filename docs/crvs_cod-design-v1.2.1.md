@@ -32,7 +32,7 @@ The cause of death module uses a framework based off of the ICD (International C
 
 The cause of death module uses a custom form in order to meet design requirements to closely reflect the paper form in a web browser, however sections have also been made in the event a mobile device is used. This structure can be seen in the diagram below.
 
-![Programme Overview](resources/images/CoD_Program_overview.png)
+![Programme Overview](docs/resources/images/CoD_Program_overview.png)
 
 Description of the program is described in further detail in the sections below.  
 
